@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+		<title>Closer</title>		
+		
+		<!-- Favicon -->
+		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">	
+		
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		
+		<!-- Fontawesome CSS -->
+		<link rel="stylesheet" href="assets/plugins/fontawesome/css/fontawesome.min.css">
+		<link rel="stylesheet" href="assets/plugins/fontawesome/css/all.min.css">
+		
+		<!-- Main CSS -->
+		<link rel="stylesheet" href="assets/css/style.css">	
+	</head>
+    <body>	
+
+		<!-- Main Wrapper -->
+		<div class="main-wrapper">
+			<div class="container-fluid p-0">
+				<div class="row no-gutters">
+
+					<!-- Login Left -->
+					<div class="col-lg-5 signin">
+						<div class="signin-color">
+							
+							<!-- Logo -->
+							<div class="signin-header">
+								<a class="d-block" href="#">
+									<img src="assets/img/logo.png" alt="" class="img-fluid">
+								</a>
+							</div>
+							<!-- /Logo -->
+
+							<!-- Content -->
+							<!-- <div class="content-left">
+								<div class="row">
+									<div class="col-12">
+										<h2 class="welcome">
+											Closer
+										</h2>
+									</div>
+								</div>
+							</div> -->
+							<!-- Content /-->
+
+						</div>
+					</div>
+					<!-- Login Left /-->
+
+					<!-- Login Right-->
+					<div class="col-lg-7 signin-right">
+						<div class="form-item">
+						
+								<div class="signin-form">
+									<h3 class="text-center">Sign In</h3>
+									<div class="form-group ">
+                                        <input type="email" id="email" class="form-control" placeholder="Email Address">
+                                        
+									</div>
+									<div class="form-group">
+                                        <input type="password" id="password" class="form-control" placeholder="Password">
+									</div>
+									<div class="form-group ">
+										<input type="text" id="workspace" class="form-control" placeholder="WorkSpace">
+									
+									</div>
+								
+									<div class="row signin-btn no-gutters ">
+										<div class="col-md-6 col-6 d-flex align-items-center">
+											<a href="forgotpassword.html" class="">Forgot Password?</a>
+										</div>
+										<div class="col-md-6 col-6">
+											<button type="button" id="startBtn" class="btn btn-primary sign-in float-right" >Sign In</button>
+										</div>
+									</div>
+									                                    
+                               
+									
+								</div>
+						</div>
+					</div>
+					<!-- Login Right /-->
+				</div>
+			</div>
+
+			<div id="notification" class="hidden">
+				<p id="message"></p>
+				<button id="close-button" onClick="closeNotification()">
+					Close
+				</button>
+				<button id="restart-button" onClick="restartApp()" class="hidden">
+					Restart
+				</button>
+			</div>
+		</div>
+
+		
+		<!-- jQuery -->
+		<script src="assets/js/jquery-3.2.1.min.js"></script>
+						<script src="assets/js/popper.min.js"></script>
+						<script src="assets/js/bootstrap.min.js"></script>
+		<style>
+			@import url('../node_modules/bootstrap/dist/css/bootstrap.min.css');
+		</style>
+		<script>window.$ = window.jQuery = require('jquery');</script>
+		<script>require('popper.js');</script>
+		<script>require('bootstrap');</script>
+		
+		<!-- Bootstrap Core JS -->
+
+		
+		<!-- Custom JS -->
+		<script  src="assets/js/script.js"></script>
+		<script defer src="render.js"></script>
+
+	</body>
+</html>

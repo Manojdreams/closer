@@ -1,0 +1,331 @@
+2020-08-07 00:33:57.333 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-11 11:48:06.030 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-11 22:20:16.897 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:33:33.491 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:34:30.909 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:34:41.488 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:34:51.918 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:35:02.945 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:35:13.758 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:35:24.344 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:35:34.834 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:35:45.245 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:36:31.020 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:36:41.513 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:36:52.058 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:37:02.567 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:37:13.099 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:37:23.681 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:37:34.430 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:37:44.884 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:37:55.365 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:38:35.828 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:38:46.355 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:38:56.828 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:39:07.408 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:39:17.910 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:39:28.369 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:39:38.955 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:39:49.643 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:40:00.116 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:41:09.267 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 00:41:20.151 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 10:47:03.851 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 11:16:55.482 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 11:27:44.393 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 11:29:53.782 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 11:30:04.768 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 18:27:07.514 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 18:35:15.545 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 18:42:38.349 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-08-12 19:04:16.316 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-09-17 09:46:14.614 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-09-17 09:55:22.222 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-10-17 00:02:23.124 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-10-19 23:49:11.945 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-10-22 11:05:48.990 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-10-22 11:12:50.842 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-10-22 11:26:45.832 uiautomation.py[5912] Refind -> Find Control Timeout: {ControlType: EditControl}
+2020-10-29 23:57:39.228 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-10-30 00:12:57.304 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-10-30 11:12:12.482 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-10-30 12:09:43.977 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-10-30 13:24:47.275 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-10-30 13:25:18.301 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-10-30 13:29:10.355 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-10-30 16:24:06.660 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-10-30 16:33:45.058 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-10-30 16:34:00.567 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-10-31 02:35:01.526 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-10-31 03:03:52.283 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-10-31 03:47:50.337 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-10-31 03:55:06.167 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-03 16:40:56.177 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-03 16:47:36.887 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-03 16:58:29.378 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-03 17:41:15.957 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:22:29.597 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:50:54.271 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:51:06.275 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:51:18.642 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:51:30.065 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:51:41.458 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:52:08.274 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:52:22.258 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:52:36.179 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:52:49.497 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:53:03.331 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:53:17.004 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:53:30.795 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:53:44.629 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:53:58.160 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:54:11.301 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:54:25.304 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:54:38.355 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:54:51.987 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:55:06.934 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:55:18.474 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:55:34.471 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:55:49.780 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:56:05.367 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:56:21.071 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:56:36.361 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:56:54.520 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:57:11.013 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:57:28.203 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:57:44.777 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:58:01.839 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:58:18.208 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:58:35.216 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:58:52.426 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:59:08.788 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:59:25.108 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:59:41.471 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 18:59:58.043 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 19:00:14.402 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 19:00:30.009 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 19:00:46.333 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 19:01:02.024 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 19:01:17.554 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 19:01:32.625 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 19:01:47.124 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 19:02:02.758 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 19:02:17.268 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 19:02:31.862 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 19:02:46.797 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 19:03:02.699 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 19:03:18.201 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:52:56.995 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:53:15.190 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:53:29.968 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:53:44.044 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:53:55.786 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:54:07.131 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:54:22.729 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:54:38.476 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:54:54.410 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:55:06.142 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:55:18.883 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:55:30.368 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:55:42.586 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:55:54.290 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:56:05.704 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:56:17.305 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:56:33.207 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:56:45.783 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:56:58.475 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:57:14.117 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:57:29.229 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:57:44.975 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:58:00.184 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:58:11.709 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:58:27.350 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:58:42.634 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:58:57.614 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:59:12.548 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:59:25.904 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:59:42.173 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 22:59:58.014 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:00:13.779 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:00:29.454 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:00:43.408 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:00:57.449 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:01:12.372 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:01:26.531 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:01:41.040 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:01:57.507 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:02:13.515 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:02:28.529 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:02:43.337 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:02:59.036 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:03:14.307 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:03:28.479 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:03:41.363 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:03:54.554 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:04:07.749 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:04:21.821 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:04:34.687 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:04:48.173 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:05:01.858 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:05:15.009 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:05:28.638 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:05:41.838 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:05:54.521 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:06:06.223 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:06:21.866 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:06:37.435 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:06:53.078 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:07:08.922 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:07:24.281 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:07:39.617 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:07:54.920 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:08:10.866 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:08:26.159 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:08:41.354 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:08:57.657 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:09:13.156 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:09:28.407 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:09:39.924 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:09:55.504 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:10:10.615 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:10:26.632 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:10:41.720 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:10:57.288 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:11:12.554 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:11:27.915 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:11:43.111 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:11:58.568 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:12:13.688 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:12:28.717 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:12:43.454 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:12:58.658 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:13:14.446 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:13:29.845 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:13:45.310 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:14:02.310 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:14:14.474 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:14:28.367 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:14:43.705 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:14:58.556 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:15:14.213 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:15:29.638 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:15:44.976 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:16:00.014 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:16:14.485 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:16:29.779 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:16:44.810 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:16:59.304 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:17:14.051 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:17:28.891 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:17:47.721 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:18:08.027 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:18:24.576 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:18:40.563 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:18:56.450 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:19:11.725 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:19:27.195 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:19:42.345 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:19:58.128 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:20:13.130 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:20:28.371 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:20:42.532 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:20:58.269 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:21:13.328 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:21:28.751 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:21:42.315 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:21:56.028 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:22:09.387 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:22:22.838 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:22:36.196 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:22:49.311 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:23:03.240 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:23:18.334 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:23:31.661 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:23:44.810 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:23:57.885 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:24:11.003 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:24:24.782 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:24:38.369 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:24:51.961 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:25:04.689 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:25:18.262 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:25:32.262 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:25:46.589 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:26:01.440 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:26:16.181 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:26:30.724 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:26:44.986 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:26:59.735 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:27:14.673 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:27:29.223 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:27:43.851 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:27:58.159 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:28:11.150 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:28:25.514 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:28:38.946 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:28:52.247 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:29:05.829 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:29:20.320 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:29:34.225 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:29:47.808 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:30:00.119 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:30:13.407 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:30:27.274 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:30:39.631 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:30:53.208 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:31:06.371 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:31:19.242 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:31:32.617 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:31:45.760 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:31:58.630 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:32:11.975 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:32:25.674 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:32:38.134 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:32:51.891 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:33:06.061 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:33:20.410 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:33:35.875 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:33:51.580 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:34:05.873 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:34:22.454 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:34:38.340 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:34:54.087 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:35:09.796 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:35:25.517 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:35:41.723 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:35:56.925 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:36:12.632 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:36:29.015 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:36:46.439 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:37:01.939 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:37:17.995 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:37:33.919 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:37:49.482 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:38:04.693 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:38:18.161 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:38:34.024 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:38:50.555 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:39:06.194 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:39:19.482 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:39:34.483 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:39:49.697 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:40:04.116 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:40:18.889 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:40:33.155 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:40:46.182 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:41:00.189 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:41:14.063 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:41:27.501 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:41:40.866 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:41:53.392 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:42:06.143 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:42:18.963 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:42:31.943 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:42:44.657 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:42:58.031 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-09 23:43:10.945 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-12 02:23:39.750 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-16 22:37:58.848 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-17 00:37:18.100 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-17 00:46:04.688 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}
+2020-11-20 02:34:40.485 uiautomation.py[5951] Refind -> Find Control Timeout: {RegexName: '(address(.|\n)*search)|(search(.|\n)*address)', ControlType: EditControl}

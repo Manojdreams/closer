@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
+		<title>Closer</title>		
+		
+		<!-- Favicon -->
+		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">	
+		
+		<!-- Bootstrap CSS -->
+		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		
+		<!-- Fontawesome CSS -->
+		<link rel="stylesheet" href="assets/plugins/fontawesome/css/fontawesome.min.css">
+		<link rel="stylesheet" href="assets/plugins/fontawesome/css/all.min.css">
+		
+		<!-- Bootstrap Select CSS -->
+		<link rel="stylesheet" href="assets/plugins/bootstrap-select/css/bootstrap-select.min.css">
+		
+		<!-- Main CSS -->
+		<link rel="stylesheet" href="assets/css/style.css">	
+	</head>
+    <body>	
+	
+		<div class="task-info-card active" style="flex: 1;">
+			<div class="task-play-inner">
+				<div class="task-playing-content">
+					<a id="start"><i class="fas fa-play icon-circle"></i></a>
+					<a id="stop"><i class="fas fa-pause icon-circle"></i></a>
+					<!-- <div class="task-play-img">
+							
+				</div> -->
+					<div style="font-size: 10px;" class="task-content">
+						<div class="task-content-inner">
+							<div class="text-truncate">
+								<span  class="task-online"></span> 
+								<span id="task_name"></span>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="task-play-action">
+					<span id="total_time">00:01</span>
+					<a id="quit" class="task-play-close"><i class="fas fa-times"></i></a>
+				</div>
+			</div>
+		</div>
+		
+		<!-- jQuery -->
+		<script src="assets/js/jquery-3.2.1.min.js"></script>
+		<style>
+			@import url('../node_modules/bootstrap/dist/css/bootstrap.min.css');
+		  </style>
+		  <script>window.$ = window.jQuery = require('jquery');</script>
+		  <script>require('popper.js');</script>
+		  <script>require('bootstrap');</script>
+		
+		<!-- Bootstrap Core JS -->
+        <script src="assets/js/popper.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+		
+		<!-- Slimscroll JS -->
+        <script src="assets/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+		
+		<!-- Bootstrap Select JS -->
+		<script src="assets/plugins/bootstrap-select/js/bootstrap-select.min.js"></script>
+		
+		<!-- Custom JS -->
+		<script  src="assets/js/script.js"></script>
+		<script src="taskplaying.js"></script>
+		<script>
+			$('.start').click(function () {
+					alert('clecl')
+					console.log('text');
+					localStorage.setItem('minWindowTask', true);
+				})
+		</script>
+    </body>
+</html>
